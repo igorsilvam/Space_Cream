@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto tem como finalidade colocar em prática os conceitos de display grid e animação, ele foi elaborado na aula do programa Explorer da Rocketseat como desafio.
+Esse projeto tem como finalidade colocar em prática os conceitos de responsividade, display grid e animação, ele foi elaborado na aula do programa Explorer da Rocketseat como desafio.
 
 - [Página](https://igorsilvamedeiros.github.io/Space_Cream/)
 
