@@ -19,4 +19,4 @@ Esse projeto tem como finalidade colocar em prática os conceitos de responsivid
 
 Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-- [Layout Web / Mobile](<https://www.figma.com/file/z0WeJDRjGgIDBNUAsaIb9v/Stage-03---Mobile-First-(Copy)?node-id=0%3A1>)
+- [Layout Web / Mobile](<https://www.figma.com/file/g2RgwVpSoemU8N8z1Z9Fyr/Stage-03---Mobile-First>)
